@@ -1,0 +1,30 @@
+.texto {
+    font-size: 22px;
+}
+.imagen img {
+    height: 500px;
+    display: block;
+    margin: auto;
+ 
+ }
+ h1 {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+ }
+
+ h2 {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .boton {
+   
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(121, 9, 43);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s;
+ }
